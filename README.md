@@ -5,3 +5,6 @@ Python language learning game, compable with any language database. Translating 
 LOADING DATABASE
 For adding a language to game, you need to type a database filename in the first input log. 
 Database must contain two rows: "translation" for words in English and "word" for words in language you're trying to learn
+
+
+There is an example of a correct form database data.csv
